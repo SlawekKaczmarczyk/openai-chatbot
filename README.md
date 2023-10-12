@@ -1,7 +1,5 @@
 # openai-chatbot
 
-
-# Django-Verify-Email
 Python chatbot using OpenAI.
 
 ```bash
